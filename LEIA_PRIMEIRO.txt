@@ -1,0 +1,48 @@
+AUTEDUX — SITE OFICIAL (PACOTE PARA PUBLICAÇÃO)
+=================================================
+
+Este pacote contém um site estático responsivo em português, com o logo do AUTEDUX e cards interativos explicando 28 botões do Professor V4.57.
+
+ARQUIVOS
+- index.html: página principal
+- styles.css: aparência azul-marinho/dourado, adaptada para celular e computador
+- script.js: filtro e pesquisa dos cards; menu mobile
+- privacidade.html: informações de privacidade deste site
+- termos.html: informações de uso deste site
+- assets/logo.png: logo fornecido, preservado sem alteração
+
+ANTES DE PUBLICAR PARA O MERCADO PAGO
+1. Completar a identificação jurídica do responsável pelo AUTEDUX. Os canais de suporte já foram adicionados ao site.
+2. Revisar a política de privacidade e os termos comerciais com os detalhes efetivos do aplicativo (tratamento de dados, contratação, renovação, cancelamento, reembolso e suporte).
+3. Conferir os recursos e condições comerciais descritos no site.
+4. Não habilitar pagamentos reais até validar o fluxo Pix de produção e a licença no Supabase.
+
+COMO VISUALIZAR
+Abra index.html no navegador. Para publicar gratuitamente com GitHub Pages:
+1. Crie um repositório público no GitHub (ex.: autedux-site).
+2. Envie index.html, styles.css, script.js, privacidade.html, termos.html e a pasta assets/ para a raiz do repositório.
+3. No GitHub, abra Settings > Pages > Build and deployment, selecione Deploy from a branch e branch main / (root).
+4. Aguarde o endereço HTTPS fornecido pelo GitHub Pages.
+5. Antes de informar esse endereço ao Mercado Pago, revise as informações comerciais e o contato de suporte.
+
+OBSERVAÇÕES
+- Site de apresentação, não checkout. Nenhum pagamento é recebido pelo site.
+- Não há chaves, tokens ou senhas neste pacote.
+- A imagem central é uma ilustração conceitual, não uma captura de tela do aplicativo.
+- O AUTEDUX é independente do SIPAE.
+- Este site não modifica os arquivos do AUTEDUX Professor nem Administrativo.
+
+
+ATUALIZACAO - AREA DE DOWNLOAD WINDOWS 10 / WINDOWS 11
+- A pagina principal inclui agora a secao "Baixar AUTEDUX" com dois cards, um para cada Windows.
+- Os cards exibem "Download em breve" porque ainda nao existem instaladores publicos validados.
+- Nao foram incluidos links de teste ou ZIPs de desenvolvimento no site publico.
+- Quando os instaladores forem aprovados, substitua os indicadores por links HTTPS oficiais.
+- Esta alteracao modifica apenas o site, nao o aplicativo AUTEDUX.
+
+ATUALIZACAO - CENTRAL DE ATENDIMENTO
+- WhatsApp: (99) 98179-3817 (link https://wa.me/5599981793817)
+- E-mail: autedux01@gmail.com
+- Nova secao de contato na pagina inicial, links no rodape e contatos em privacidade/termos.
+- Nenhum horario de atendimento foi inventado.
+- Ainda e necessario revisar a identificacao do fornecedor e as politicas comerciais antes da publicacao para venda.
